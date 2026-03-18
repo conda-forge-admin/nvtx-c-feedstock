@@ -1,8 +1,8 @@
 schema_version: 1
 
 context:
-  version: "3.3.0"
-  sha256: 67d0cda2f9d19a89684592dab40c0bf2c2b13d5d588e51392076c0890a64b6c0
+  version: "3.5.0"
+  sha256: f244c5eec33f9769123a755dda1e9b80339345ab278cf9542ff34677c88804b5
 
 package:
   name: nvtx-c
