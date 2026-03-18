@@ -193,6 +193,3 @@ Feedstock Maintainers
 * [@conda-forge/cuda](https://github.com/orgs/conda-forge/teams/cuda/)
 * [@shwina](https://github.com/shwina/)
 
-
-<!-- dummy commit to enable rerendering -->
-
